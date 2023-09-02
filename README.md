@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **singhprabal205@gmail.com**
 
-- ⚡ Fun fact **A programmer's best friend is 'Ctrl + S' (Save) because it can prevent hours of lost work.**
+- ⚡ Fun fact **Debugging is like being the detective in a crime movie where you're also the murderer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
