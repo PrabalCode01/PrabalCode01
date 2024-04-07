@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prabal Singh</h1>
+<h1 align="center">Hi 👋, I'm Prabal Pratap Singh</h1>
 <h3 align="center">Software Developer in the Making | Learning, Growing, Coding</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3k5tT01Tisjq2N1OS45pbnYkdBbrUv9nvIQ&usqp=CAU" />
