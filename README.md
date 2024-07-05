@@ -16,7 +16,6 @@
 <a href="https://twitter.com/prabal2025" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabal2025" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prabal singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabal singh" height="30" width="40" /></a>
-<a href="https://instagram.com/_prabal_ps_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_prabal_ps_" height="30" width="40" /></a>
 </p>
 
 
